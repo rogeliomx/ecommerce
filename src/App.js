@@ -5,7 +5,7 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-     <h1>Este es el directorio de React 🐢</h1>
+     <h1>This is the new site for ecommerce 🏹 </h1>
    
     </div>
   );  
