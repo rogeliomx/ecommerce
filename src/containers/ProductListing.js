@@ -7,7 +7,7 @@
      console.log(products);
     return ( 
         <div className='ui grid container'> 
-            <ProductComponent />
+            <ProductComponent  />
         </div>
     )
  } 
